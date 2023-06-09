@@ -1,0 +1,331 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Healing and Death - After Sundown 1e</title>
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="A tabletop RPG in a world of monsters and horror.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:500" rel="stylesheet" type="text/css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+
+        
+    </head>
+    <body class="light">
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">var path_to_root = "../";</script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { } 
+            if (theme === null || theme === undefined) { theme = 'light'; }
+            document.body.className = theme;
+            document.querySelector('html').className = theme + ' js';
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <ol class="chapter"><li><a href="../introduction.html"><strong aria-hidden="true">1.</strong> Introduction</a></li><li><a href="../terrible_places_and_people.html"><strong aria-hidden="true">2.</strong> Terrible Places and People</a></li><li><ol class="section"><li><a href="../terrible_places_and_people/maya.html"><strong aria-hidden="true">2.1.</strong> Maya</a></li><li><a href="../terrible_places_and_people/limbo.html"><strong aria-hidden="true">2.2.</strong> Limbo</a></li><li><a href="../terrible_places_and_people/mictlan.html"><strong aria-hidden="true">2.3.</strong> Mictlan</a></li><li><a href="../terrible_places_and_people/being_in_between_worlds.html"><strong aria-hidden="true">2.4.</strong> Being In Between Worlds</a></li><li><a href="../terrible_places_and_people/terrible_people.html"><strong aria-hidden="true">2.5.</strong> Terrible People</a></li></ol></li><li><a href="../running_the_game.html"><strong aria-hidden="true">3.</strong> Running The Game</a></li><li><ol class="section"><li><a href="../running_the_game/basic_dice_mechanics.html"><strong aria-hidden="true">3.1.</strong> Basic Dice Mechanics</a></li><li><a href="../running_the_game/character_generation.html"><strong aria-hidden="true">3.2.</strong> Character Generation</a></li><li><a href="../running_the_game/advancing_goals.html"><strong aria-hidden="true">3.3.</strong> Advancing Goals</a></li><li><a href="../running_the_game/jobs,_missions,_and_quests.html"><strong aria-hidden="true">3.4.</strong> Jobs, Missions, and Quests</a></li><li><a href="../running_the_game/placing_opposition.html"><strong aria-hidden="true">3.5.</strong> Placing Opposition</a></li></ol></li><li><a href="../monstrous_society.html"><strong aria-hidden="true">4.</strong> Monstrous Society</a></li><li><ol class="section"><li><a href="../monstrous_society/bands.html"><strong aria-hidden="true">4.1.</strong> Bands</a></li><li><a href="../monstrous_society/syndicates.html"><strong aria-hidden="true">4.2.</strong> Syndicates</a></li><li><a href="../monstrous_society/cults.html"><strong aria-hidden="true">4.3.</strong> Cults</a></li><li><a href="../monstrous_society/antagonistic_organizations.html"><strong aria-hidden="true">4.4.</strong> Antagonistic Organizations</a></li><li><a href="../monstrous_society/political_aspirations.html"><strong aria-hidden="true">4.5.</strong> Political Aspirations</a></li></ol></li><li><a href="../skills.html"><strong aria-hidden="true">5.</strong> Skills</a></li><li><ol class="section"><li><a href="../skills/physical_skills.html"><strong aria-hidden="true">5.1.</strong> Physical Skills</a></li><li><a href="../skills/social_skills.html"><strong aria-hidden="true">5.2.</strong> Social Skills</a></li><li><a href="../skills/technical_skills.html"><strong aria-hidden="true">5.3.</strong> Technical Skills</a></li><li><a href="../skills/specializations.html"><strong aria-hidden="true">5.4.</strong> Specializations</a></li><li><a href="../skills/backgrounds.html"><strong aria-hidden="true">5.5.</strong> Backgrounds</a></li><li><a href="../skills/using_skills.html"><strong aria-hidden="true">5.6.</strong> Using Skills</a></li><li><a href="../skills/using_attributes_without_skills.html"><strong aria-hidden="true">5.7.</strong> Using Attributes Without Skills</a></li></ol></li><li><a href="../getting_what_you_need.html"><strong aria-hidden="true">6.</strong> Getting What You Need</a></li><li><ol class="section"><li><a href="../getting_what_you_need/keeping_things_quiet.html"><strong aria-hidden="true">6.1.</strong> Keeping Things Quiet</a></li><li><a href="../getting_what_you_need/asking_around_montages.html"><strong aria-hidden="true">6.2.</strong> Asking Around: Montages</a></li><li><a href="../getting_what_you_need/interviewing_people.html"><strong aria-hidden="true">6.3.</strong> Interviewing People</a></li><li><a href="../getting_what_you_need/persuasive_argumentation.html"><strong aria-hidden="true">6.4.</strong> Persuasive Argumentation</a></li><li><a href="../getting_what_you_need/arguments_from_rhetoric.html"><strong aria-hidden="true">6.5.</strong> Arguments From Rhetoric</a></li></ol></li><li><a href="../danger.html"><strong aria-hidden="true">7.</strong> Danger</a></li><li><ol class="section"><li><a href="../danger/moving,_evading,_and_escaping.html"><strong aria-hidden="true">7.1.</strong> Moving, Evading, and Escaping</a></li><li><a href="../danger/attacking.html"><strong aria-hidden="true">7.2.</strong> Attacking</a></li><li><a href="../danger/weaponry_and_hazards.html"><strong aria-hidden="true">7.3.</strong> Weaponry and Hazards</a></li><li><a href="../danger/armor.html"><strong aria-hidden="true">7.4.</strong> Armor</a></li><li><a href="../danger/wounds.html"><strong aria-hidden="true">7.5.</strong> Wounds</a></li><li><a href="../danger/healing_and_death.html" class="active"><strong aria-hidden="true">7.6.</strong> Healing and Death</a></li><li><a href="../danger/temporary_conditions.html"><strong aria-hidden="true">7.7.</strong> Temporary Conditions</a></li><li><a href="../danger/wind_and_water.html"><strong aria-hidden="true">7.8.</strong> Wind and Water</a></li></ol></li><li><a href="../monsters.html"><strong aria-hidden="true">8.</strong> Monsters</a></li><li><ol class="section"><li><a href="../monsters/lycanthropy.html"><strong aria-hidden="true">8.1.</strong> Lycanthropy</a></li><li><a href="../monsters/vampirism.html"><strong aria-hidden="true">8.2.</strong> Vampirism</a></li><li><a href="../monsters/witchcraft.html"><strong aria-hidden="true">8.3.</strong> Witchcraft</a></li><li><a href="../monsters/animates.html"><strong aria-hidden="true">8.4.</strong> Animates</a></li><li><a href="../monsters/leviathans.html"><strong aria-hidden="true">8.5.</strong> Leviathans</a></li><li><a href="../monsters/transhumans.html"><strong aria-hidden="true">8.6.</strong> Transhumans</a></li><li><a href="../monsters/zombies.html"><strong aria-hidden="true">8.7.</strong> Zombies</a></li><li><a href="../monsters/fey.html"><strong aria-hidden="true">8.8.</strong> Fey</a></li><li><a href="../monsters/giant_animals.html"><strong aria-hidden="true">8.9.</strong> Giant Animals</a></li><li><a href="../monsters/ghosts.html"><strong aria-hidden="true">8.10.</strong> Ghosts</a></li><li><a href="../monsters/demons.html"><strong aria-hidden="true">8.11.</strong> Demons</a></li><li><a href="../monsters/evil_plants.html"><strong aria-hidden="true">8.12.</strong> Evil Plants</a></li><li><a href="../monsters/spawn_monsters.html"><strong aria-hidden="true">8.13.</strong> Spawn Monsters</a></li></ol></li><li><a href="../magic.html"><strong aria-hidden="true">9.</strong> Magic</a></li><li><ol class="section"><li><a href="../magic/universal_disciplines.html"><strong aria-hidden="true">9.1.</strong> Universal Disciplines</a></li><li><a href="../magic/astral_disciplines.html"><strong aria-hidden="true">9.2.</strong> Astral Disciplines</a></li><li><a href="../magic/infernal_discplines.html"><strong aria-hidden="true">9.3.</strong> Infernal Discplines</a></li><li><a href="../magic/orphic_disciplines.html"><strong aria-hidden="true">9.4.</strong> Orphic Disciplines</a></li><li><a href="../magic/devotions.html"><strong aria-hidden="true">9.5.</strong> Devotions</a></li></ol></li><li><a href="../character_options_and_motivation.html"><strong aria-hidden="true">10.</strong> Character Options and Motivation</a></li><li><ol class="section"><li><a href="../character_options_and_motivations/resources_and_obligations.html"><strong aria-hidden="true">10.1.</strong> Resources and Obligations</a></li><li><a href="../character_options_and_motivations/motivations_&_passions.html"><strong aria-hidden="true">10.2.</strong> Motivations &amp; Passions</a></li><li><a href="../character_options_and_motivations/advantages_and_disadvantages.html"><strong aria-hidden="true">10.3.</strong> Advantages and Disadvantages</a></li><li><a href="../character_options_and_motivations/character_advancement.html"><strong aria-hidden="true">10.4.</strong> Character Advancement</a></li></ol></li><li><a href="../the_world_at_night.html"><strong aria-hidden="true">11.</strong> The World at Night</a></li><li><ol class="section"><li><a href="../the_world_at_night/mexico_city.html"><strong aria-hidden="true">11.1.</strong> Mexico City</a></li><li><a href="../the_world_at_night/houston.html"><strong aria-hidden="true">11.2.</strong> Houston</a></li><li><a href="../the_world_at_night/kuala_lumpur.html"><strong aria-hidden="true">11.3.</strong> Kuala Lumpur</a></li><li><a href="../the_world_at_night/new_york.html"><strong aria-hidden="true">11.4.</strong> New York</a></li><li><a href="../the_world_at_night/paris.html"><strong aria-hidden="true">11.5.</strong> Paris</a></li><li><a href="../the_world_at_night/prague.html"><strong aria-hidden="true">11.6.</strong> Prague</a></li><li><a href="../the_world_at_night/san_francisco.html"><strong aria-hidden="true">11.7.</strong> San Francisco</a></li></ol></li><li><a href="../persona_non_grata.html"><strong aria-hidden="true">12.</strong> Persona non Grata</a></li><li><ol class="section"><li><a href="../persona_non_grata/people.html"><strong aria-hidden="true">12.1.</strong> People</a></li><li><a href="../persona_non_grata/animals.html"><strong aria-hidden="true">12.2.</strong> Animals</a></li><li><a href="../persona_non_grata/places.html"><strong aria-hidden="true">12.3.</strong> Places</a></li><li><a href="../persona_non_grata/things.html"><strong aria-hidden="true">12.4.</strong> Things</a></li><li><a href="../persona_non_grata/standardizing_nonstandard_magic.html"><strong aria-hidden="true">12.5.</strong> Standardizing Nonstandard Magic</a></li><li><a href="../persona_non_grata/i_fought_the_law.html"><strong aria-hidden="true">12.6.</strong> I Fought The Law</a></li></ol></li><li><a href="../points_of_view.html"><strong aria-hidden="true">13.</strong> Points of View</a></li><li><ol class="section"><li><a href="../points_of_view/first_person.html"><strong aria-hidden="true">13.1.</strong> First Person</a></li><li><a href="../points_of_view/second_person.html"><strong aria-hidden="true">13.2.</strong> Second Person</a></li><li><a href="../points_of_view/third_person.html"><strong aria-hidden="true">13.3.</strong> Third Person</a></li><li><a href="../points_of_view/the_fourth_wall.html"><strong aria-hidden="true">13.4.</strong> The Fourth Wall</a></li></ol></li></ol>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar" class="menu-bar">
+                    <div id="menu-bar-sticky-container">
+                        <div class="left-buttons">
+                            <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                                <i class="fa fa-bars"></i>
+                            </button>
+                            <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                                <i class="fa fa-paint-brush"></i>
+                            </button>
+                            <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                                <li role="none"><button role="menuitem" class="theme" id="light">Light <span class="default">(default)</span></button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                            </ul>
+                            
+                            <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                                <i class="fa fa-search"></i>
+                            </button>
+                            
+                        </div>
+
+                        <h1 class="menu-title">After Sundown 1e</h1> 
+
+                        <div class="right-buttons">
+                            <a href="../print.html" title="Print this book" aria-label="Print this book">
+                                <i id="print-button" class="fa fa-print"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <a class="header" href="#healing-and-death" id="healing-and-death"><h2>Healing and Death</h2></a>
+<p><em>Good as new<br />
+...or not...</em></p>
+<p>When characters are injured, there are two possibilities: they can either get
+better or not. Medically speaking, injured tissue can resolve into healed or
+regenerated tissue, it can resolve into a scar, or it can die. This is actually
+much farther in-depth than we care to go into.</p>
+<p>When a character is given time to heal, they reduce the number of boxes that are
+filled in with a type of wound mark by 2. The character must also succeed on a
+Healing Test or the damage will fester: Normal or Lethal marked healed will add
+a mark of the next higher damage type, and Aggravated marks will heal only 1
+mark instead of 2. Note that when a wound festers on a character who's already
+Incapacitated it can potentially send them into a Dying state, as normal for
+taking new damage marks. The time required for natural healing depends on the
+type of wound.</p>
+<table><thead><tr><th align="left"> Wounds </th><th align="center"> Symbol </th><th align="left"> Healing Time </th></tr></thead><tbody>
+<tr><td align="left"> Normal </td><td align="center"> <tt>[/]</tt> </td><td align="left"> 20 minutes </td></tr>
+<tr><td align="left"> Lethal </td><td align="center"> <tt>[\]</tt> </td><td align="left"> 1 day </td></tr>
+<tr><td align="left"> Aggravated </td><td align="center"> <tt>[<s> </s>]</tt> </td><td align="left"> 3 Days </td></tr>
+</tbody></table>
+<p>If a character is running around being the Action Man, they don't heal at all.
+Healing doesn't really happen until the character takes some time off from ninja
+flips and car chases. The exception is characters who have suffered
+Incapacitating or Terminal injuries, who start the cycle of healing and possible
+death right away.</p>
+<p>If a character's entire track is filled, the character's healing timeframe is
+increased by one step until they have at least one box that has no wounds in it.
+Normal marks will take 1 hour to heal, Lethal marks will take 3 days to heal,
+and Aggravated marks will take an entire week to heal.</p>
+<a class="header" href="#sample-healing" id="sample-healing"><h3>Sample Healing</h3></a>
+<p>Assuming that a character were to <em>fail</em> all of their Healing Tests during their
+rest, their damage track would change as follows:</p>
+<table><thead><tr><th> Time Passed </th><th> Condition Track </th><th> Notes </th></tr></thead><tbody>
+<tr><td align="left"> Starting </td><td align="center"> <tt>[/][/][/][/][/][/][/][/][ ][ ]</tt> </td><td align="left"> Start with 8 <tt>[/]</tt></td></tr>
+<tr><td align="left"> 20 minutes </td><td align="center"> <tt>[X][/][/][/][/][/][ ][ ][ ][ ]</tt> </td><td align="left"> Heal 2 <tt>[/]</tt>, add 1 <tt>[\]</tt></td></tr>
+<tr><td align="left"> 40 minutes </td><td align="center"> <tt>[X][X][/][/][ ][ ][ ][ ][ ][ ]</tt> </td><td align="left"> &quot;</td></tr>
+<tr><td align="left"> 60 minutes </td><td align="center"> <tt>[X][X][\][ ][ ][ ][ ][ ][ ][ ]</tt> </td><td align="left"> &quot;</td></tr>
+<tr><td align="left"> 80 minutes </td><td align="center"> <tt>[\][\][\][\][ ][ ][ ][ ][ ][ ]</tt> </td><td align="left"> &quot;</td></tr>
+<tr><td align="left"> 1 day </td><td align="center"> <tt>[<s>\</s>][\][ ][ ][ ][ ][ ][ ][ ][ ]</tt> </td><td align="left"> Heal 2 <tt>[\]</tt>, add 1 <tt>[<s> </s>]</tt></td></tr>
+<tr><td align="left"> 2 days </td><td align="center"> <tt>[<s> </s>][<s> </s>][ ][ ][ ][ ][ ][ ][ ][ ]</tt> </td><td align="left"> &quot;</td></tr>
+<tr><td align="left"> 5 days </td><td align="center"> <tt>[<s> </s>][ ][ ][ ][ ][ ][ ][ ][ ][ ]</tt> </td><td align="left"> Heal only 1 <tt>[<s> </s>]</tt></td></tr>
+<tr><td align="left"> 8 days </td><td align="center"> <tt>[ ][ ][ ][ ][ ][ ][ ][ ][ ][ ]</tt> </td><td align="left"> Finally fully healthy</td></tr>
+</tbody></table>
+<a class="header" href="#dying-and-stabilization" id="dying-and-stabilization"><h3>Dying and Stabilization</h3></a>
+<p>When a character is in a Dying state, the condition must be removed in time
+(&quot;stabilizing&quot; their condition) or they die.</p>
+<ul>
+<li>The character can spend an Edge to automatically stabilize.</li>
+<li>The character without Edge still gets to roll a Healing Test to stabilize.</li>
+<li>Someone else can apply First Aid to stabilize the character.</li>
+</ul>
+<p>When a Healing Test or First Aid is involved, a result of 1 or 2 hits increases
+the timer on the Dying condition by either 20 minutes or 1 hour respectively.
+This allows time for the character to potentially be moved to a place with a
+better shot at a final test before they die. A result of 3 hits or more causes
+the character to stabilize right away.</p>
+<p>Characters with a Terminal Wound will normally die within 5 minutes. This is not
+normally enough time to allow for a Healing Test. However, Dying characters are
+always allowed to make at least one final Healing Test before their Dying timer
+runs out.</p>
+<p>A character who is already Dying can also have their death hastened with further
+injury. Once the character's rightmost wound box is filled with a Lethal or
+Aggravated mark, additional wounds accumulate towards a threshold of outright
+killing the target.</p>
+<ul>
+<li>Incapacitating or Terminal wounds add 2 towards a character's Death Threshold.</li>
+<li>Any other wound adds 1.</li>
+</ul>
+<p>A character's Death Threshold limit is equal to their Willpower, though this can
+be increased by knowing Lure of Destruction magic. Yes, this all means that once
+someone is already on death's door, it takes quite a few extra bullets to push
+them through it - it's not like they are going to go <em>into</em> shock at that point.</p>
+<a class="header" href="#the-healing-test" id="the-healing-test"><h3>The Healing Test</h3></a>
+<p>When a character is Healing they will often need to make a Healing Test. This
+can be called for as either a part of natural healing to prevent wound marks
+from festering, or when trying to prevent the Dying condition from ending the
+character's life.</p>
+<p>A Healing Test is Edge + Survival, modified by the local conditions. If another
+character is on hand to provide medical care their Logic + Medicine works as a
+Teamwork Test with the character's own roll (whoever has the smaller dice pool
+counts as the assistant).</p>
+<table><thead><tr><th> Conditions are... </th><th> Healing Modifier </th></tr></thead><tbody>
+<tr><td align="left"> Dangerous </td><td align="center"> -2 </td></tr>
+<tr><td align="left"> Distressing </td><td align="center"> +0 </td></tr>
+<tr><td align="left"> Restful </td><td align="center"> +1 </td></tr>
+<tr><td align="left"> Sanitary </td><td align="center"> +2 </td></tr>
+<tr><td align="left"> Awesome </td><td align="center"> +4 </td></tr>
+</tbody></table>
+<a class="header" href="#first-aid" id="first-aid"><h3>First Aid</h3></a>
+<p>When a character is trained in first aid, they can reduce the amount of damage
+on someone substantially. This is pretty much a one-time deal and has to be
+performed within the &quot;golden hour&quot; of the injury (an hour from when the patient
+was injured, not an hour from first medical contact). First aid is a Logic +
+Medicine test. 1 hit removes 2 forward slashes, 2 hits removes 2 back slashes, 3
+hits remove 2 dashes, and any additional hits remove 1 mark of each type. So, a
+5 hit First Aid test would remove 4 marks of each type.</p>
+<p>If the victim is currently Dying you must first put a stop to that. This is a
+Threshold 3 test. Any Net Hits will also remove wound 1 wound mark of each type.</p>
+<p>Perhaps the biggest advantage of First Aid is the <em>time</em> it takes to make the
+first healing test during medical treatment: one time frame shorter than usual
+for the left-most injury type in the wound track. So it's only 1 minute to rouse
+someone from Normal Damage, 5 minutes to treat Lethal Damage, and 20 minutes to
+treat Aggravated damage.</p>
+<a class="header" href="#being-dead" id="being-dead"><h3>Being Dead</h3></a>
+<p><em>&quot;Okay, <strong>now</strong> we go through the pockets looking for loose change.&quot;</em></p>
+<p>Characters in horror die from time to time. Sometimes a character will end up
+dying several times, because After Sundown posits ghastly life after death and
+even has magical ways to restore life. When a character dies, all of their
+powers that cost Power Points to activate or which otherwise last for a scene
+end. In addition, anything they have going that could be dispelled is dispelled
+with their death. A character's Power Pool is also emptied at the moment the
+character actually dies. Very importantly, a character's power schedule (if any)
+does not change just because they are dead. A Strigoi can still be fed blood to
+regain Power Points and a Frankenstein can still be recharged while a corpse.
+This usually only matters if they have the Restoration Power, but there are
+other ways to raise the dead, and it might be important that they rise up with a
+power reserve on hand.</p>
+<p>The dead may also come back as Ghosts, whether they are Luminaries or Extras. In
+After Sundown, no one becomes a Ghost until they've been dead for three settings
+of the sun. There are movies in which the spirit is left standing there as the
+body hits the floor, and there are movies in which the spirit wakes up having
+been dead and buried for a couple days. After Sundown's assumed setting is the
+latter.</p>
+<p>Sometimes a player may want to continue their character as a Wraith rather than
+start a new character or have their character restored to life. This is a
+workable storyline, but it is fraught with peril because Wraiths are not
+normally considered playable (being constantly insubstantial while outside the
+Gloom). If the players agree, the character can be converted into a Wraith, with
+their powers traded out for the basic Wraith abilities, starting what is in
+essence a new Origin Story. Being a Wraith should not be a license to print
+superpowers, so the new powers that Wraiths get should replace some of the
+abilities they already had rather than piling on.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+                            <a rel="prev" href="../danger/wounds.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+
+                        
+                            <a rel="next" href="../danger/temporary_conditions.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+                    <a href="../danger/wounds.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+
+                
+                    <a href="../danger/temporary_conditions.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                
+            </nav>
+
+        </div>
+
+        
+
+        
+
+        
+
+        
+        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+
+        
+
+    </body>
+</html>

@@ -50,48 +50,48 @@ Throughout this text are boxes marked as "Advanced." These boxes present new rul
 
 # Contents
 
-[Preface](#Preface)
-[4C System](#4C-System)
-[For Gamers](#For-Gamers)
-[For Publishers](#For-Publishers)
-[Dice](#dice)
-[Advanced](#advanced)
-[Contents](#contents)
-[Characters](#characters)
-[Character Origin](#Character-Origin)
-[Advanced Character Origins](#Advanced-Character-Origins)
-[Traits](#traits)
-[Primary Traits](#Primary-Traits)
-[Secondary Traits](#Secondary-Traits)
-[Rank Values](#Rank-Values)
-[Advanced Rank Values](#Advanced-Rank-Values)
-[Optional Rule: Rank Names](#Optional-Rule-Rank-Names)
-[Skills](#skills)
-[Skill Determination](#Skill-Determination)
-[Advanced Skills](#Advanced-Skills)
-[Powers](#powers)
-[Power Determination](#Power-Determination)
-[Advanced Power Selection](#Advanced-Power-Selection)
-[Power Descriptions](#Power-Descriptions)
-[Playing the Game](#Playing-the-Game)
-[Master Table](#Master-Table)
-[Altering The Dice](#Altering-The-Dice)
-[Combat](#combat)
-[Gamemastering](#gamemastering)
-[Using the Master Table](#Using-the-Master-Table)
-[Character Health, Hit Points, or Vitality](#Character-Health-Hit-Points-or-Vitality)
-[Fluctuating Fortune](#Fluctuating-Fortune)
-[Character Assets, Means, or Resources](#Character-Assets-Means-or-Resources)
-[Character Fame, Popularity, or Prestige](#Character-Fame-Popularity-or-Prestige)
-[Vehicles](#vehicles)
-[Character Advancement](#Character-Advancement)
-[Weapons & Gear](#Weapons-&-Gear)
-[Introduction](#introduction)
-[Grenades](#grenades)
-[Omphalos IX Precision-Fire Rifle](#Omphalos-IX-Precision-Fire-Rifle)
-[Shrouded Relay](#Shrouded-Relay)
-[Voltaic-Concussion Fist](#Voltaic-Concussion-Fist)
-[Potions](#potions)
+[Preface](#preface)  
+[4C System](#4c-system)  
+[For Gamers](#for-gamers)  
+[For Publishers](#for-publishers)  
+[Dice](#dice)  
+[Advanced](#advanced)  
+[Contents](#contents)  
+[Characters](#characters)  
+[Character Origin](#character-origin)  
+[Advanced Character Origins](#advanced-character-origins)  
+[Traits](#traits)  
+[Primary Traits](#primary-traits)  
+[Secondary Traits](#secondary-traits)  
+[Rank Values](#rank-values)  
+[Advanced Rank Values](#advanced-rank-values)  
+[Optional Rule: Rank Names](#optional-rule-rank-names)  
+[Skills](#skills)  
+[Skill Determination](#skill-determination)  
+[Advanced Skills](#advanced-skills)  
+[Powers](#powers)  
+[Power Determination](#power-determination)  
+[Advanced Power Selection](#advanced-power-selection)  
+[Power Descriptions](#power-descriptions)  
+[Playing the Game](#playing-the-game)  
+[Master Table](#master-table)  
+[Altering The Dice](#altering-the-dice)  
+[Combat](#combat)  
+[Gamemastering](#gamemastering)  
+[Using the Master Table](#using-the-master-table)  
+[Character Health, Hit Points, or Vitality](#character-health-hit-points-or-vitality)  
+[Fluctuating Fortune](#fluctuating-fortune)  
+[Character Assets, Means, or Resources](#character-assets-means-or-resources)  
+[Character Fame, Popularity, or Prestige](#character-fame-popularity-or-prestige)  
+[Vehicles](#vehicles)  
+[Character Advancement](#character-advancement)  
+[Weapons & Gear](#weapons--gear)  
+[Introduction](#introduction)  
+[Grenades](#grenades)  
+[Omphalos IX Precision-Fire Rifle](#omphalos-ix-precision-fire-rifle)  
+[Shrouded Relay](#shrouded-relay)  
+[Voltaic-Concussion Fist](#voltaic-concussion-fist)  
+[Potions](#potions)  
 
 Feel free to share the text of this file with anyone. The text is released to public domain and can be used as the basis for games of your own design. Enjoy.
 
@@ -304,7 +304,7 @@ To determine the number of powers a character possesses roll d% on the following
 
 Once you've determined the number of powers for a character roll d% once for each power on the Basic Power Selection or Advanced Power Selection table to determine the character's specific powers:
 
-###### Basic Power Selection
+## Basic Power Selection
 
 | **Roll** | **Power**                |
 | -------- | ------------------------ |
@@ -1486,7 +1486,7 @@ Grenades, and other weapons specifically designed for throwing, grant a +1 Secto
 ## Omphalos IX Precision-Fire Rifle
 
 Advanced Weapon, Futuristic Device  
-- **Availability: Unique  
+- **Availability:** Unique  
 - **Attack Type:** Ranged  
 - **Manufacturer:** Wire, real name unknown  
 - **Designer:** Wire, real name unknown  

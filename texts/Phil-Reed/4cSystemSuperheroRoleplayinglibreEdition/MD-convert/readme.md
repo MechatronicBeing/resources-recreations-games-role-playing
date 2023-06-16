@@ -6,21 +6,19 @@ Phil Reed also released a supplement called *Weapons & Gear* which was also in t
 
 This unofficial new edition by Chris Sakkas corrects a few errors, moves all powers to the Powers chapter and makes some formatting changes but otherwise preserves the texts of *4C System* and *Weapons & Gear* as they were written by Phil Reed.
 
-If you notice any errors in the text, please contact Chris Sakkas at \<sanglorian@gmail.com\>.
+If you notice any errors in the text, please contact Chris Sakkas at <sanglorian@gmail.com>.
 
 **First Release of the Libre Edition, 2012.**
 
-To the extent possible under law, the person who associated CC0 with this work has waived all copyright and related or neighboring rights to this work. \<http://creativecommons.org/publicdomain/zero/1.0/\>
+To the extent possible under law, the person who associated CC0 with this work has waived all copyright and related or neighboring rights to this work. <http://creativecommons.org/publicdomain/zero/1.0/>
 
-Typeset in Liberation Serif \<https://fedorahosted.org/liberation-fonts/\> and Ubuntu \<http://font.ubuntu.com/\>.
+Typeset in Liberation Serif <https://fedorahosted.org/liberation-fonts/> and Ubuntu <http://font.ubuntu.com/>.
 
-The cover of this book, which is also public domain, uses an image from Wonder Comics 001, hosted by the Digital Comic Museum. \<http://digitalcomicmuseum.com/index.php?dlid=1797\>
+The cover of this book, which is also public domain, uses an image from Wonder Comics 001, hosted by the Digital Comic Museum. <http://digitalcomicmuseum.com/index.php?dlid=1797>
 
-For more libre works, visit \<http://www.livinglibre.com/\> and \<http://fossilbank.wikidot.com/\>.
+For more libre works, visit <http://www.livinglibre.com/> and <http://fossilbank.wikidot.com/>.
 
-You can visit Phil Reed's website here: \<http://www.roninarts.com/\>.
-
-![](media/image1.png)
+You can visit Phil Reed's website here: <http://www.roninarts.com/>.
 
 # 4C System
 
@@ -32,7 +30,7 @@ As a gamer you can use 4C to "build" your own game system or to assist in conver
 
 ## For Publishers
 
-You can use 4C as the basis for an entirely new game – strip out the powers and drop in appropriate origins and "classes,"\* for example, to create a fantasy game – or as common ground for the development of material that is compatible with other games that use a similar system.
+You can use 4C as the basis for an entirely new game – strip out the powers and drop in appropriate origins and "classes,"* for example, to create a fantasy game – or as common ground for the development of material that is compatible with other games that use a similar system.
 
 4C is released to the public as public domain and almost every part of the text, including the title, is open for use (the names of those involved in the creation of 4C are not open for use). The copyright on 4C is unassigned and the text is donated to the public domain; anyone can use this material for their own products and with their own ideas.
 
@@ -52,89 +50,48 @@ Throughout this text are boxes marked as "Advanced." These boxes present new rul
 
 # Contents
 
-Preface 1
-
-4C System 2
-
-For Gamers 2
-
-For Publishers 2
-
-Dice 2
-
-Advanced 2
-
-Contents 3
-
-Characters 4
-
-Character Origin 4
-
-Advanced Character Origins 4
-
-Traits 5
-
-Primary Traits 5
-
-Secondary Traits 5
-
-Rank Values 7
-
-Advanced Rank Values 7
-
-Optional Rule: Rank Names 7
-
-Skills 8
-
-Skill Determination 8
-
-Advanced Skills 8
-
-Powers 9
-
-Power Determination 9
-
-Advanced Power Selection 10
-
-Power Descriptions 11
-
-Playing the Game 21
-
-Master Table 21
-
-Altering The Dice 21
-
-Combat 21
-
-Gamemastering 28
-
-Using the Master Table 28
-
-Character Health, Hit Points, or Vitality 28
-
-Fluctuating Fortunes 28
-
-Character Assets, Means, or Resources 29
-
-Character Fame, Popularity, or Prestige 29
-
-Vehicles 30
-
-Character Advancement 32
-
-Weapons & Gear 33
-
-Introduction 33
-
-Grenades 33
-
-Omphalos IX Precision-Fire Rifle 34
-
-Shrouded Relay 35
-
-Voltaic-Concussion Fist 35
-
-Potions 36
+[Preface](#Preface)
+[4C System](#4C-System)
+[For Gamers](#For-Gamers)
+[For Publishers](#For-Publishers)
+[Dice](#dice)
+[Advanced](#advanced)
+[Contents](#contents)
+[Characters](#characters)
+[Character Origin](#Character-Origin)
+[Advanced Character Origins](#Advanced-Character-Origins)
+[Traits](#traits)
+[Primary Traits](#Primary-Traits)
+[Secondary Traits](#Secondary-Traits)
+[Rank Values](#Rank-Values)
+[Advanced Rank Values](#Advanced-Rank-Values)
+[Optional Rule: Rank Names](#Optional-Rule-Rank-Names)
+[Skills](#skills)
+[Skill Determination](#Skill-Determination)
+[Advanced Skills](#Advanced-Skills)
+[Powers](#powers)
+[Power Determination](#Power-Determination)
+[Advanced Power Selection](#Advanced-Power-Selection)
+[Power Descriptions](#Power-Descriptions)
+[Playing the Game](#Playing-the-Game)
+[Master Table](#Master-Table)
+[Altering The Dice](#Altering-The-Dice)
+[Combat](#combat)
+[Gamemastering](#gamemastering)
+[Using the Master Table](#Using-the-Master-Table)
+[Character Health, Hit Points, or Vitality](#Character-Health-Hit-Points-or-Vitality)
+[Fluctuating Fortune](#Fluctuating-Fortune)
+[Character Assets, Means, or Resources](#Character-Assets-Means-or-Resources)
+[Character Fame, Popularity, or Prestige](#Character-Fame-Popularity-or-Prestige)
+[Vehicles](#vehicles)
+[Character Advancement](#Character-Advancement)
+[Weapons & Gear](#Weapons-&-Gear)
+[Introduction](#introduction)
+[Grenades](#grenades)
+[Omphalos IX Precision-Fire Rifle](#Omphalos-IX-Precision-Fire-Rifle)
+[Shrouded Relay](#Shrouded-Relay)
+[Voltaic-Concussion Fist](#Voltaic-Concussion-Fist)
+[Potions](#potions)
 
 Feel free to share the text of this file with anyone. The text is released to public domain and can be used as the basis for games of your own design. Enjoy.
 
@@ -144,9 +101,8 @@ Feel free to share the text of this file with anyone. The text is released to pu
 
 The first step in character creation is to determine the character's origin. Roll d% on the following table:
 
-|          |                          |
-| -------- | ------------------------ |
 | **Roll** | **Origin**               |
+| -------- | ------------------------ |
 | 00-04    | Robot                    |
 | 05-09    | Alien                    |
 | 10-39    | Skilled Human            |
@@ -167,9 +123,8 @@ The first step in character creation is to determine the character's origin. Rol
 
 As per standard character creation, roll randomly for traits, powers, and skills and then modify the results for the origin of the character:
 
-|                              |                                                                                                                                                                                                                                                                           |
-| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Origin**                   | **Modifiers**                                                                                                                                                                                                                                                             |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Robot**                    | The Rank Values of all Primary Traits are each increased by +10. The character's Repute is reduced to 0.                                                                                                                                                                  |
 | **Alien**                    | The Rank Values of all Primary Traits are each increased by +10. The character loses one powerbut still retains a minimum of one power.                                                                                                                                   |
 | **Skilled Human**            | The character gains three bonus skills.                                                                                                                                                                                                                                   |
@@ -217,9 +172,8 @@ This Primary Trait is a measure of the character's mental strength. When dealing
 
 Roll d% once on the following table for each Primary Trait to determine its Rank Value:
 
-|               |                |
-| ------------- | -------------- |
 | **Dice Roll** | **Rank Value** |
+| ------------- | -------------- |
 | 00-04         | 1              |
 | 05-09         | 3              |
 | 10-19         | 6              |
@@ -261,9 +215,8 @@ This Secondary Trait is a measure of how well the character is known; the greate
 
 Rank Values are the numerical representation of Traits and power levels in 4C. Rank Values range from 0 to 1000. Most characters will have Rank Values in the 1-50 range with exceptionally powerful characters having Rank Values of 51 or greater. Although no character may have a Rank Value of 0, characters may be 0reduced to the rank of 0 in special situations. Here is a comparison of the different Rank Values:
 
-|                      |                      |
-| -------------------- | -------------------- |
 | **Rank Value Range** | **Description**      |
+| -------------------- | -------------------- |
 | 01-02                | Minimum human        |
 | 03-05                | Below-average human  |
 | 06-09                | Average human        |
@@ -285,9 +238,8 @@ The Advanced game takes the highest Rank Value groups and divides them so that i
 
 Although not necessary, Gamemasters may wish to assign names to the various Rank Value ranges as a means of adding additional flavor. The following is a list of suggested Rank Names.
 
-|                      |                                                |
-| -------------------- | ---------------------------------------------- |
 | **Rank Value Range** | **Rank Name**                                  |
+| -------------------- | ---------------------------------------------- |
 | 01-02                | Doddering, Feeble, Weak                        |
 | 03-05                | Inferior, Poor, Shabby                         |
 | 06-09                | Average, Mundane, Typical                      |
@@ -298,8 +250,8 @@ Although not necessary, Gamemasters may wish to assign names to the various Rank
 | 50-74                | Amazing, Astounding, Legendary                 |
 | 75-99                | Colossal, Monstrous, Monumental                |
 | 100-149              | Astonishing, Marvelous, Unearthly              |
-| 150-999              | Inconceivable, Indescribable, Unthinkable\*    |
-| 1000                 | Incomprehensible, Improbable, Unimaginable\*\* |
+| 150-999              | Inconceivable, Indescribable, Unthinkable*    |
+| 1000                 | Incomprehensible, Improbable, Unimaginable** |
 
 \* Rank Values of this magnitude can also be described using abstract terms such as Move A, Shift 1, or Step X.
 
@@ -313,9 +265,8 @@ After Origins and Traits characters may possess skills, mundane talents that gra
 
 To determine the number of skills a character possesses roll d% on the following table:
 
-|          |                      |
-| -------- | -------------------- |
 | **Roll** | **Number of Skills** |
+| -------- | -------------------- |
 | 00-19    | 1                    |
 | 20-59    | 2                    |
 | 60-89    | 3                    |
@@ -325,8 +276,7 @@ To determine the number of skills a character possesses roll d% on the following
 
 Such things as Acrobatics, Investigation, Pilot, Drive, and Martial Arts are considered skills; discuss the skills you would like a character to have with the Gamemaster for approval. A skill grants a +1 Row Step bonus when making any rolls on the Master Table during an action appropriate to the skill in question.
 
-######   
-Advanced Option: Contacts
+###### Advanced Option: Contacts
 
 In place of a skill a character may possess a contact. A contact is a friend or acquaintance the character can call on for assistance. Contacts must be cleared with the Gamemaster though any reasonable contact idea should be automatically allowed. (Attempting to claim the President of the U.S. as a contact is going to be a lot more difficult to have approved by the Gamemaster than a low-level police officer.)
 
@@ -342,25 +292,22 @@ Powers are what make the character a superhero.
 
 To determine the number of powers a character possesses roll d% on the following table:
 
-|          |                      |
-| -------- | -------------------- |
 | **Roll** | **Number of Powers** |
+| -------- | -------------------- |
 | 00-19    | 2                    |
 | 20-59    | 3                    |
 | 60-89    | 4                    |
 | 90-98    | 5                    |
-| 99       | Magic\*              |
+| 99       | Magic*              |
 
 \* Magic is a unique power able to replicate all other powers.
 
 Once you've determined the number of powers for a character roll d% once for each power on the Basic Power Selection or Advanced Power Selection table to determine the character's specific powers:
 
-######   
-Basic Power Selection
+###### Basic Power Selection
 
-|          |                          |
-| -------- | ------------------------ |
 | **Roll** | **Power**                |
+| -------- | ------------------------ |
 | 00-03    | Animal Command           |
 | 04-07    | Body Armor               |
 | 08-11    | Claws                    |
@@ -393,9 +340,8 @@ If you roll the same power twice you may elect to either increase the power's Ra
 
 If playing under the Advanced options, characters have a larger number of powers available. Roll d% once for each power on the following table to determine the character's specific powers:
 
-|          |                             |
-| -------- | --------------------------- |
 | **Roll** | **Power**                   |
+| -------- | --------------------------- |
 | 00-01    | Absorption                  |
 | 02-03    | Alter-Ego                   |
 | 04-05    | Animal Command              |
@@ -449,15 +395,12 @@ If playing under the Advanced options, characters have a larger number of powers
 
 If you roll the same power twice you may elect to either increase the power's Rank Value by +20 or roll again on the table.
 
-### 
-
 ### Determining Power Rank Values
 
 Roll d% once on the following table for each Power to determine its Rank Value:
 
-|               |                |
-| ------------- | -------------- |
 | **Dice Roll** | **Rank Value** |
+| ------------- | -------------- |
 | 00-04         | 1              |
 | 05-09         | 3              |
 | 10-19         | 6              |
@@ -567,9 +510,8 @@ Note that the below are guidelines only. The exact extent of what these powers c
 
 **Lifting Objects:** The upper weight limit of an object the character may lift is based on the power's Rank Value:
 
-|                |            |
-| -------------- | ---------- |
 | **Rank Value** | **Weight** |
+| -------------- | ---------- |
 | 01-02          | 50 lb.     |
 | 03-05          | 100 lbs.   |
 | 06-09          | 200 lbs.   |
@@ -635,9 +577,8 @@ In the Advanced game, the character selects a single extra body part. Extra body
 
 A character with this power can attack a number of times each turn based on the power's Rank Value:
 
-|                |                  |
-| -------------- | ---------------- |
 | **Rank Value** | **Attacks/Turn** |
+| -------------- | ---------------- |
 | 01-29          | 2                |
 | 30-49          | 3                |
 | 50             | 4                |
@@ -646,9 +587,8 @@ A character with this power can attack a number of times each turn based on the 
 
 The character can fly either through the use of an item or by innate means. When flying the character can move a number of sectors per turn depending on the Rank Value of the power:
 
-|                |                  |
-| -------------- | ---------------- |
 | **Rank Value** | **Sectors/Turn** |
+| -------------- | ---------------- |
 | 01-02          | 1                |
 | 03-05          | 2                |
 | 06-09          | 3                |
@@ -660,7 +600,7 @@ The character can fly either through the use of an item or by innate means. When
 | 75-99          | 9                |
 | 100-149        | 10               |
 | 150-999        | 15               |
-| 1000           | \*               |
+| 1000           | *               |
 
 \* The character can circle the world in a single turn.
 
@@ -676,9 +616,8 @@ The character has the ability to generate a force field, either through mental p
 
 The character can grow larger or smaller (select one), to a maximum/minimum height as shown on the table below:
 
-|                |                    |                    |
-| -------------- | ------------------ | ------------------ |
 | **Rank Value** | **Maximum Height** | **Minimum Height** |
+| -------------- | ------------------ | ------------------ |
 | 01-02          | 9 feet             | 4 feet             |
 | 03-05          | 12 feet            | 3 feet             |
 | 06-09          | 15 feet            | 2 feet             |
@@ -687,8 +626,8 @@ The character can grow larger or smaller (select one), to a maximum/minimum heig
 | 30-39          | 24 feet            | 3 inches           |
 | 40-49          | 27 feet            | 2 inches           |
 | 50-74          | 30 feet            | 1 inch             |
-| 75-99          | 60 feet            | ½ inch             |
-| 100-149        | 120 feet           | ¼ inch             |
+| 75-99          | 60 feet            | 1/2 inch           |
+| 100-149        | 120 feet           | 1/4 inch           |
 | 150-999        | 240 feet           | 1/8 inch           |
 | 1000           | 480 feet           | 1/16 inch          |
 
@@ -700,9 +639,8 @@ When using Shrinking the Rank Value of the character's Brawn is unaffected. Anyo
 
 The character possesses a secret headquarters. The headquarters size and location must be approved by the Gamemaster. The exact makeup of the headquarters – weapons locker, garage, communications center, prison, etc. – must also be approved by the Gamemaster. The Rank Value of the headquarters should be used as a rough guide.
 
-|                |                                                                                                                                                         |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Rank Value** | **Possible Size and Contents**                                                                                                                          |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 01-05          | A secret room in an apartment. May include a computer and basic lab. Nothing sophisticated.                                                             |
 | 06-09          | An apartment. A home gym would be appropriate. Maybe one piece of advanced technology.                                                                  |
 | 10-19          | A house. A few dedicated rooms serve as an armory, a brig, or other specialized duty. May include a garage.                                             |
@@ -773,11 +711,9 @@ Depending on the form and Gamemaster approval the character may make use of the 
 
 **Energy:** The character transforms into a being of pure energy (choose electricity, light, radiation, etc.). When in energy form the character may do such things as:
 
-  - Jump into power lines and travel through them. (Electricity)
-
-  - Move at the speed of light. (Light)
-
-  - Cause radiation burns and sickness. (Radiation)
+- Jump into power lines and travel through them. (Electricity)
+- Move at the speed of light. (Light)
+- Cause radiation burns and sickness. (Radiation)
 
 **Fire:** The character transforms into a being of pure fire. When in fire form the character is capable of setting things on fire.
 
@@ -813,9 +749,8 @@ The character possesses a sidekick that assists him on adventures (and is the pe
 
 The character can jump across great distances. The character may leap up to a number of sectors each turn depending on the Rank Value of the power:
 
-|                |                  |
-| -------------- | ---------------- |
 | **Rank Value** | **Sectors/Turn** |
+| -------------- | ---------------- |
 | 01-02          | 1                |
 | 03-05          | 2                |
 | 06-09          | 3                |
@@ -827,7 +762,7 @@ The character can jump across great distances. The character may leap up to a nu
 | 75-99          | 9                |
 | 100-149        | 10               |
 | 150-999        | 15               |
-| 1000           | \*               |
+| 1000           | *               |
 
 \* The character can circle the world in a single turn.
 
@@ -841,9 +776,8 @@ A player may, with Gamemaster approval, have an entirely new sense. For example,
 
 The character can run at superhuman speeds. The character can move up to a number of sectors per turn based on the Rank Value of this power or the character's Coordination +10, whichever is greater:
 
-|                |                  |
-| -------------- | ---------------- |
 | **Rank Value** | **Sectors/Turn** |
+| -------------- | ---------------- |
 | 01-02          | 1                |
 | 03-05          | 2                |
 | 06-09          | 3                |
@@ -855,7 +789,7 @@ The character can run at superhuman speeds. The character can move up to a numbe
 | 75-99          | 9                |
 | 100-149        | 10               |
 | 150-999        | 15               |
-| 1000           | \*               |
+| 1000           | *               |
 
 \* The character can circle the world in a single turn.
 
@@ -865,9 +799,8 @@ When attempting an unusual maneuver, such as running across water or up walls, t
 
 The character possesses the mental ability to move objects without touching them. The upper limit of weight the character may lift with this power is the greater of the power's Rank Value or the character's Willpower Rank Value +10.
 
-|                |            |
-| -------------- | ---------- |
 | **Rank Value** | **Weight** |
+| -------------- | ---------- |
 | 1-2            | 50 lb.     |
 | 3-5            | 100 lbs.   |
 | 6-9            | 200 lbs.   |
@@ -917,9 +850,8 @@ The character can move normally, either by using a specialized device or innate 
 
 The character is from a watery civilization and may breathe underwater or on land. When swimming, the character moves a number of Sectors determined by the Rank Value of this power.
 
-|                |                                             |
-| -------------- | ------------------------------------------- |
 | **Rank Value** | **Sectors Moved in One Turn When Swimming** |
+| -------------- | ------------------------------------------- |
 | 01-02          | 1 sector                                    |
 | 03-29          | 2 sectors                                   |
 | 30+            | 3 sectors                                   |
@@ -938,9 +870,8 @@ The character may possess weapons that do not appear within these rules or in ex
 
 Take a look at the 4C Basic System Master Table (back cover); it is the key to all actions in the game. To use the Master Table, find the appropriate Rank Value in the leftmost column, roll d%, and find your die result on the table by moving along the row. The number rolled will be in a black, red, blue, or yellow box which will give you the result:
 
-|           |                                                                                                                                      |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | **Color** | **Result**                                                                                                                           |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | Black     | Failed Attempt. Your action has failed.                                                                                              |
 | Red       | Minor Success. Your action succeeded, but just barely; in most instances this will be enough.                                        |
 | Blue      | Success. You have succeeded at your attempted action.                                                                                |
@@ -969,15 +900,10 @@ Combat in 4C takes place in turns, each of which covers an abstract amount of ti
 During a turn the action takes place as follows:
 
 1.  The Gamemaster secretly determines the actions of Gamemaster Characters.
-
 2.  The players each state their actions for the turn.
-
 3.  One player and the Gamemaster each roll d% to determine Initiative for their side; highest roll wins.
-
 4.  The side that won Initiative acts.
-
 5.  The side that lost Initiative now acts.
-
 6.  Repeat until the combat is over.
 
 ### Optional Rule: Initiative Bonus
@@ -990,18 +916,16 @@ Each turn each side adds the highest Rank Value of Awareness of its members to t
 
 4C games are played on a map divided into individual areas known as sectors. The number of sectors a character may move in a turn is determined by the Rank Value of Coordination.
 
-|                |                               |
-| -------------- | ----------------------------- |
 | **Rank Value** | **Sectors Moved in One Turn** |
+| -------------- | ----------------------------- |
 | 01-02          | 1 sector                      |
 | 03-29          | 2 sectors                     |
 | 30+            | 3 sectors                     |
 
 **Climbing:** The above table assumes a character moving horizontally along the ground; if the character is moving vertically (i.e. climbing a wall) use the following:
 
-|                |                                   |
-| -------------- | --------------------------------- |
 | **Rank Value** | **Sectors\* Climbed in One Turn** |
+| -------------- | --------------------------------- |
 | 01-29          | 1 sector                          |
 | 30+            | 2 sectors                         |
 
@@ -1017,9 +941,8 @@ In addition to moving across sectors on the map (either through walking, running
 
 Without a special power or device, a character moves only a single sector each turn when swimming. A character that sinks may hold his breath for a number of turns equal to his Fortitude Rank Value; after that point the character must roll d% on the Master Table using the character's Fortitude Rank Value:
 
-|           |                                                                  |
-| --------- | ---------------------------------------------------------------- |
 | **Color** | **Result**                                                       |
+| --------- | ---------------------------------------------------------------- |
 | Black     | You are dying.                                                   |
 | Red       | You are winded; your Fortitude Rank Value drops by one Row Step. |
 | Blue      | No effect.                                                       |
@@ -1031,9 +954,8 @@ The character must continue rolling once each turn, with a cumulative -1 Row Ste
 
 A character can move for a number of turns equal to the Rank Value of his Fortitude before he runs the risk of suffering from exhaustion. The character must roll d% on the Master Table using the character's Fortitude Rank Value:
 
-|           |                                            |
-| --------- | ------------------------------------------ |
 | **Color** | **Result**                                 |
+| --------- | ------------------------------------------ |
 | Black     | You collapse and must rest for 3-30 turns. |
 | Red       | You collapse and must rest for 2-20 turns. |
 | Blue      | No effect.                                 |
@@ -1047,9 +969,8 @@ Hitting, kicking, stabbing, slashing, etc. are all types of melee attacks. To re
 
 **Bashing:** Any unarmed attack with fists or feet or an attack with a blunt weapon or object is a Bashing attack. Roll d% on the Master Table using your Melee Rank Value and compare the result to the following table:
 
-|           |                                                                                                 |
-| --------- | ----------------------------------------------------------------------------------------------- |
 | **Color** | **Result**                                                                                      |
+| --------- | ----------------------------------------------------------------------------------------------- |
 | Black     | Miss. You whiff.                                                                                |
 | Red       | Hit. See ‘Damage'.                                                                              |
 | Blue      | Pound. Your opponent suffers damage and may be knocked down (possibly into an adjacent sector). |
@@ -1057,9 +978,8 @@ Hitting, kicking, stabbing, slashing, etc. are all types of melee attacks. To re
 
 **Slashing:** Any attack with a knife, sword, or other sharp object is a Slashing attack. Roll d% on the Master Table using your Melee Rank Value and compare the result to the following table:
 
-|           |                                                               |
-| --------- | ------------------------------------------------------------- |
 | **Color** | **Result**                                                    |
+| --------- | ------------------------------------------------------------- |
 | Black     | Miss. Nothing but air.                                        |
 | Red       | Hit. See ‘Damage'.                                            |
 | Blue      | Concuss. Your opponent suffers damage and may be knocked out. |
@@ -1069,9 +989,8 @@ Hitting, kicking, stabbing, slashing, etc. are all types of melee attacks. To re
 
 Includes shooting a firearm and throwing a weapon or object, in short any attack across a distance is a ranged attack. Roll d% on the Master Table using your Coordination Rank Value and compare the result to the following table:
 
-|           |                                                                                                       |
-| --------- | ----------------------------------------------------------------------------------------------------- |
 | **Color** | **Result**                                                                                            |
+| --------- | ----------------------------------------------------------------------------------------------------- |
 | Black     | Miss. Wild shot.                                                                                      |
 | Red       | Hit. See ‘Damage'.                                                                                    |
 | Blue      | Nail. You've hit your target; if you did not declare you were trying for the Nail then this is a Hit. |
@@ -1079,9 +998,8 @@ Includes shooting a firearm and throwing a weapon or object, in short any attack
 
 **Range:** Weapons are limited in range as follows:
 
-|               |                                                                                                                                   |
-| ------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | **Weapon**    | **Range (In Sectors)**                                                                                                            |
+| ------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | Bow           | 4                                                                                                                                 |
 | Crossbow      | 4                                                                                                                                 |
 | Pistol        | 4                                                                                                                                 |
@@ -1099,14 +1017,12 @@ Count the number of sectors from the attacker to the target ignoring the attacke
 To rush an opponent you must meet the following conditions:
 
   - The opponent cannot be in the same sector as you.
-
   - You must be able to reach the opponent in one turn.
 
 If these two conditions are met you roll d% on the Master Table using your Fortitude Rank Value and gaining a +1 Row Step for each open sector you move into. Compare the result to the following table:
 
-|           |                                                                                                 |
-| --------- | ----------------------------------------------------------------------------------------------- |
 | **Color** | **Result**                                                                                      |
+| --------- | ----------------------------------------------------------------------------------------------- |
 | Black     | Miss. You run right past.                                                                       |
 | Red       | Hit. See ‘Damage'.                                                                              |
 | Blue      | Pound. Your opponent suffers damage and may be knocked down (possibly into an adjacent sector). |
@@ -1118,9 +1034,8 @@ Grabbing, choking, holding, and similar attacks are all covered under wrestling.
 
 **Seizing:** Use this when you want to grab something out of an opponent's grasp.
 
-|           |                                                          |
-| --------- | -------------------------------------------------------- |
 | **Color** | **Result**                                               |
+| --------- | -------------------------------------------------------- |
 | Black     | Miss. You grab at air.                                   |
 | Red       | Miss. Not quite.                                         |
 | Blue      | Snatch. You've grabbed the target of your seize attempt. |
@@ -1128,9 +1043,8 @@ Grabbing, choking, holding, and similar attacks are all covered under wrestling.
 
 **Slipping:** Use this when you're being held by an opponent.
 
-|           |                                                                   |
-| --------- | ----------------------------------------------------------------- |
 | **Color** | **Result**                                                        |
+| --------- | ----------------------------------------------------------------- |
 | Black     | Fail. You're still held.                                          |
 | Red       | Fail. Just for a second . . ., but no.                            |
 | Blue      | Elude. You've escaped.                                            |
@@ -1138,9 +1052,8 @@ Grabbing, choking, holding, and similar attacks are all covered under wrestling.
 
 **Struggling:** Use this when you want to grab an opponent and restrain the character.
 
-|           |                                                   |
-| --------- | ------------------------------------------------- |
 | **Color** | **Result**                                        |
+| --------- | ------------------------------------------------- |
 | Black     | Fail. Not even close.                             |
 | Red       | Fail. Just out of reach.                          |
 | Blue      | Hold. You've successfully grappled your opponent. |
@@ -1150,9 +1063,8 @@ Grabbing, choking, holding, and similar attacks are all covered under wrestling.
 
 Roll d% on the Master Table using your Coordination Rank Value and compare the result to the following table:
 
-|           |                                                                                                     |
-| --------- | --------------------------------------------------------------------------------------------------- |
 | **Color** | **Result**                                                                                          |
+| --------- | --------------------------------------------------------------------------------------------------- |
 | Black     | Fail. Not quick enough.                                                                             |
 | Red       | 3 Row Step. Anyone attacking you this turn suffers a -3 Row Step penalty to the appropriate Trait.  |
 | Blue      | 6 Row Steps. Anyone attacking you this turn suffers a -6 Row Step penalty to the appropriate Trait. |
@@ -1166,13 +1078,11 @@ When surrounded by multiple opponents in a single sector a character may elect t
 
 Any successful hit inflicts damage that is subtracted from your Damage total. When your Damage points are reduced to 0, you are Dying. The amount of damage an attack inflicts depends on what type of attack it is:
 
-  - **Melee Attack:** Inflicts an amount of damage equal to the Rank Value of the attacker's Brawn if weaponless; a one-handed weapon adds +5 points and a two-handed weapon adds +10 points.
+- **Melee Attack:** Inflicts an amount of damage equal to the Rank Value of the attacker's Brawn if weaponless; a one-handed weapon adds +5 points and a two-handed weapon adds +10 points.
+- **Ranged Attack:** Inflicts a number of points of damage equal to the Material Value of the item thrown. The following is a small selection of possible objects.
 
-  - **Ranged Attack:** Inflicts a number of points of damage equal to the Material Value of the item thrown. The following is a small selection of possible objects.
-
-|                 |                    |
-| --------------- | ------------------ |
 | **Item Thrown** | **Material Value** |
+| --------------- | ------------------ |
 | Concrete Block  | 20                 |
 | Steel Beam      | 30                 |
 | Compact Car     | 40                 |
@@ -1180,9 +1090,8 @@ Any successful hit inflicts damage that is subtracted from your Damage total. Wh
 
 If the attack was with a weapon it inflicts a number of points of damage as follows:
 
-|            |            |
-| ---------- | ---------- |
 | **Weapon** | **Damage** |
+| ---------- | ---------- |
 | Bow        | 10         |
 | Crossbow   | 10         |
 | Pistol     | 10         |
@@ -1203,9 +1112,8 @@ If the attack was with a weapon it inflicts a number of points of damage as foll
 
 Sometimes it's necessary to stop Brawn with Brawn. When blocking, roll d% on the Master Table using your Brawn Rank Value and compare the result to the following table:
 
-|           |                                                                                                           |
-| --------- | --------------------------------------------------------------------------------------------------------- |
 | **Color** | **Result**                                                                                                |
+| --------- | --------------------------------------------------------------------------------------------------------- |
 | Black     | Fail. Your block attempt has no effect.                                                                   |
 | Red       | 1 Row Step. For purposes of damage, the Rank Value of the attacker's Brawn suffers a -1 Row Step penalty. |
 | Blue      | 4 Row Steps. For purposes of damage, the Rank Value of the attacker's Brawn is reduced by 3 row steps.    |
@@ -1215,21 +1123,19 @@ Sometimes it's necessary to stop Brawn with Brawn. When blocking, roll d% on the
 
 There are times when a character must catch something (a falling civilian, a thrown object, etc.) When catching, roll d% on the Master Table using your Coordination Rank Value and compare the result to the following table:
 
-|           |                                                                                                                                                                                                                |
-| --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Color** | **Result**                                                                                                                                                                                                     |
+| --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Black     | Fail. You miss. If it was an object being thrown to harm you, such as a weapon, you're automatically hit.                                                                                                      |
 | Red       | Fail. You've missed.                                                                                                                                                                                           |
 | Blue      | You catch, but possibly harm, it. You must make a second d% roll on the Master Table using Coordination; any result less than Blue means what you caught suffers damage equal to the Rank Value of your Brawn. |
-| Yellow    | Perfect catch. Good job\!                                                                                                                                                                                      |
+| Yellow    | Perfect catch. Good job!                                                                                                                                                                                      |
 
 #### Evade
 
 Similar to dodging, except it applies to melee combat only, Evade is the act of weaving and bobbing to avoid an attack. Roll d% on the Master Table using your Melee Rank Value and compare the result to the following table:
 
-|           |                                                                                                                                                                                                                                             |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Color** | **Result**                                                                                                                                                                                                                                  |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Black     | Fail. Not only did you fail but you moved into the exact spot your opponent was attacking; your opponent automatically hits you.                                                                                                            |
 | Red       | Evade. You successfully evade the attack and are unharmed.                                                                                                                                                                                  |
 | Blue      | Superior Evade. Not only did you successfully evade the attack but you've also maneuvered yourself into an enviable position; on the next turn you gain a +1 Row Step bonus to your Melee roll to attack the opponent that you just evaded. |
@@ -1243,9 +1149,8 @@ A character that wins initiative may choose to wait before acting, allowing oppo
 
 Sometimes the strength of an object will come into play. In such instances, use the following table as a point of reference:
 
-|                    |                            |
-| ------------------ | -------------------------- |
 | **Material Value** | **Substance**              |
+| ------------------ | -------------------------- |
 | 1-2                | Paper                      |
 | 3-5                | Plastic                    |
 | 6-9                | Aluminum                   |
@@ -1263,9 +1168,8 @@ The following is a listing of the various combat results mentioned previously.
 
 **Concuss:** Compare the Rank Values of the attacker's Brawn to the defender's Fortitude. If the attacker's Rank Value is greater than the defender's the defender must roll d% on the Master Table using his Fortitude and compare the result to the following table:
 
-|           |                                                                                                                                                                                                                                                                  |
-| --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Color** | **Result**                                                                                                                                                                                                                                                       |
+| --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Black     | The defender is knocked unconscious for 1d10 turns. The defender loses all Fortitude points and can do nothing until regaining consciousness at which point the defender immediately recovers a number of Fortitude points equal to the Rank Value of Fortitude. |
 | Red       | No effect.                                                                                                                                                                                                                                                       |
 | Blue      | Same as Red.                                                                                                                                                                                                                                                     |
@@ -1283,9 +1187,8 @@ If you receive aid before you die, meaning someone spends a full turn tending to
 
 **Pound:** Compare the Rank Values of the attacker and defender's Brawn. If the attacker's Rank Value is greater than the defender's the defender rolls d% on the Master Table using Fortitude. Compare the result to the following table:
 
-|           |                                                                                                                                                                                                                                                                                                                                                                                                |
-| --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Color** | **Result**                                                                                                                                                                                                                                                                                                                                                                                     |
+| --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Black     | The defender is knocked down and into an adjacent sector of the attacker's choice. The defender must spend next turn getting up and can perform no other action. If there's an obstacle between the chosen sector and the defender's current sector; and if the attacker's Brawn is greater than the Material Value of the obstacle (see above), the defender is knocked through the obstacle. |
 | Red       | The defender is knocked down in the currently occupied sector. The defender must spend next turn getting up and can perform no other action.                                                                                                                                                                                                                                                   |
 | Blue      | No effect.                                                                                                                                                                                                                                                                                                                                                                                     |
@@ -1307,24 +1210,22 @@ The Master Table has already been introduced in the Combat section, but the usef
 
 When a character wants to attempt an action that will have an impact on the storyline (i.e. leap from rooftop to rooftop or notice an enemy hiding in a dark alley) the Gamemaster does two things:
 
-1.  Decides which Primary Trait or power applies to the action. For example, Brawn for jumping or Awareness for noticing or Superspeed for running up a wall.
-
-2.  Decides the difficulty of the action based on the following table:  
-    **Black:** Easy.  
-    **Red:** Average.  
-    **Blue:** Difficult.  
-    **Yellow:** Ridiculous.
+1. Decides which Primary Trait or power applies to the action. For example, Brawn for jumping or Awareness for noticing or Superspeed for running up a wall.
+2. Decides the difficulty of the action based on the following table:  
+  - **Black:** Easy.  
+  - **Red:** Average.  
+  - **Blue:** Difficult.  
+  - **Yellow:** Ridiculous.
 
 The player then rolls d% based on the appropriate Trait or power and compares the color result to the color needed for success; if the result equals the color or a greater color the character's action succeeded. If the action fails, it is up to the Gamemaster to determine exactly what happens to the character as a result.
 
 **Varying Circumstances:** In addition to setting the basic requirements for success, the Gamemaster can also use Row Step bonuses and penalties to reflect favorable or unfavorable conditions. The following are some suggested modifiers:
 
-|                   |                                                          |
-| ----------------- | -------------------------------------------------------- |
 | **Circumstance**  | **Modifier**                                             |
-| Hiding in shadows | \-5 Row Steps to opponents attempting to notice          |
-| Jostling train    | \-2 Row Steps to balance along the top of the train cars |
-| Raining           | \-2 Row Steps to trying to grab a wet ledge              |
+| ----------------- | -------------------------------------------------------- |
+| Hiding in shadows | -5 Row Steps to opponents attempting to notice           |
+| Jostling train    | -2 Row Steps to balance along the top of the train cars  |
+| Raining           | -2 Row Steps to trying to grab a wet ledge               |
 
 ## Character Health, Hit Points, or Vitality
 
@@ -1346,37 +1247,34 @@ Characters start the game with a number of Fortune points equal to the total of 
 
 Characters gain Fortune points for positive actions such as stopping crimes, winning fights, donating to charity, keeping appointments, rescuing someone from a fire, making time for friends, etc. The amount of points gained varies by the impact of the action as shown on the following table:
 
-|              |                   |
-| ------------ | ----------------- |
 | **Scale**    | **Points Gained** |
-| Personal     | \+5               |
-| Neighborhood | \+10              |
-| City         | \+25              |
-| State        | \+50              |
-| National     | \+75              |
-| Global       | \+100             |
+| ------------ | ----------------- |
+| Personal     | +5                |
+| Neighborhood | +10               |
+| City         | +25               |
+| State        | +50               |
+| National     | +75               |
+| Global       | +100              |
 
 ### Losing Points
 
 Characters lose Fortune points for negative actions such as committing crimes or allowing them to happen, losing fights, failing to keep appointments, failing rescue attempts, ignoring friends, etc. The amount of points lost varies by the impact of the action as shown on the following table:
 
-|              |                 |
-| ------------ | --------------- |
 | **Scale**    | **Points Lost** |
-| Personal     | \-5             |
-| Neighborhood | \-10            |
-| City         | \-25            |
-| State        | \-50            |
-| National     | \-75            |
-| Global       | \-100           |
+| ------------ | --------------- |
+| Personal     | -5              |
+| Neighborhood | -10             |
+| City         | -25             |
+| State        | -50             |
+| National     | -75             |
+| Global       | -100            |
 
 ## Character Assets, Means, or Resources
 
 Lifestyle measures a character's wealth and access to other resources as shown on the table:
 
-|                |                                    |
-| -------------- | ---------------------------------- |
 | **Rank Value** | **Level of Wealth/Lifestyle**      |
+| -------------- | ---------------------------------- |
 | 1-2            | Unemployment or state benefits.    |
 | 3-5            | Student or part-time employment.   |
 | 6-9            | Full-time, hourly wage employment. |
@@ -1396,21 +1294,19 @@ In general, the Gamemaster should allow characters to procure items and services
 
 A character's Repute is used when a character is dealing with the public; the player rolls d% on the Master Table and checks the color result:
 
-|           |                                                |
-| --------- | ---------------------------------------------- |
 | **Color** | **Public Reaction**                            |
-| Black     | Unfavorable ("Get out of here you freak\!")    |
+| --------- | ---------------------------------------------- |
+| Black     | Unfavorable ("Get out of here you freak!")     |
 | Red       | Favorable ("Thanks.")                          |
-| Blue      | Very Favorable ("That was amazing\!")          |
-| Yellow    | Extremely Favorable ("You are the greatest\!") |
+| Blue      | Very Favorable ("That was amazing!")           |
+| Yellow    | Extremely Favorable ("You are the greatest!")  |
 
 **Actions Speak Louder Than Words:** The Gamemaster may assign Row Step bonuses and penalties to the d% to reflect the character's actions prior to interacting with the public. The following are some suggested modifiers:
 
-|                  |                                                                        |
-| ---------------- | ---------------------------------------------------------------------- |
 | **Circumstance** | **Modifier**                                                           |
-| Threatening      | \-2 Row Steps to reactions when threatening a citizen                  |
-| Friendly         | \+2 Row Steps to reactions when treating citizens in a friendly manner |
+| ---------------- | ---------------------------------------------------------------------- |
+| Threatening      | -2 Row Steps to reactions when threatening a citizen                   |
+| Friendly         | +2 Row Steps to reactions when treating citizens in a friendly manner  |
 
 **Dealing with Criminals:** The above assumes the character is dealing with law-abiding citizenry. If the character is interacting with criminals the table is reversed; a black result indicates a favorable response.
 
@@ -1418,12 +1314,11 @@ A character's Repute is used when a character is dealing with the public; the pl
 
 Each time a character stops a crime or saves a life (or, if things aren't going well, commits a crime or kills), and the action is known to the public, the character gains or loses Repute points:
 
-|                           |     |
-| ------------------------- | --- |
 | **Points Gained or Lost** |     |
-| Thwart Criminal Activity  | \+1 |
-| Save a Life               | \+2 |
-| Commit Criminal Activity  | \-2 |
+| ------------------------- | --- |
+| Thwart Criminal Activity  | +1  |
+| Save a Life               | +2  |
+| Commit Criminal Activity  | -2  |
 
 The above amounts are suggestions only. If the crime a character stopped would have affected the entire city or if the life the character saved was that of someone "important" or "famous", the character may gain bonus points.
 
@@ -1443,9 +1338,8 @@ This Vehicle Trait uses a numerical score (not Rank Value) that is decreased as 
 
 This Vehicle Trait measures the agility of a vehicle. This Vehicle Trait uses a Rank Value. Performing sharp turns or other unusual maneuvers is handled with this Trait; roll d% and compare the color result to the difficulty of the maneuver on the following table:
 
-|           |                                                                            |
-| --------- | -------------------------------------------------------------------------- |
 | **Color** | **Difficulty**                                                             |
+| --------- | -------------------------------------------------------------------------- |
 | Black     | Easy (standard turns)                                                      |
 | Red       | Average (sharp turns)                                                      |
 | Blue      | Difficult (jumping over a broken bridge)                                   |
@@ -1455,9 +1349,8 @@ If the result equals the color or a greater color the maneuver succeeded. If the
 
 **Crash:** When a vehicle crashes its operator must roll for the severity of the crash. Roll d% on the Master Table using the operator's Coordination Rank Value and compare the result to the following table:
 
-|           |                                                                                                                                                                                                                                                                                              |
-| --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Color** | **Result**                                                                                                                                                                                                                                                                                   |
+| --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Black     | Vehicle crashes into an appropriate object, character, or vehicle (as determined by the Gamemaster) in the same sector in which the maneuver was attempted. If the vehicle crashes into a character or other vehicle there is a chance for the vehicle to avoid the crash (see ‘Collision'). |
 | Red       | As black but the vehicle crashes in an adjacent sector to the one in which the maneuver was attempted.                                                                                                                                                                                       |
 | Blue      | Same as red.                                                                                                                                                                                                                                                                                 |
@@ -1473,11 +1366,10 @@ This Vehicle Trait measures the number of sectors a vehicle may move in a single
 
 Vehicles are attacked like characters; roll the attack and apply damage if the attack hits. Vehicles cannot wrestle or be wrestled.
 
-**Collisions:** A vehicle hits something (a character, wall, another vehicle, etc.). A vehicle's operator may choose to purposefully hit an object (ram) and the selected target must roll d% on the Master Table using Coordination if on foot or the vehicle's Vehicle Trait \#2 (Control, Handling, Maneuvering, etc.) if operating a vehicle and compare the result to the following table:
+**Collisions:** A vehicle hits something (a character, wall, another vehicle, etc.). A vehicle's operator may choose to purposefully hit an object (ram) and the selected target must roll d% on the Master Table using Coordination if on foot or the vehicle's Vehicle Trait #2 (Control, Handling, Maneuvering, etc.) if operating a vehicle and compare the result to the following table:
 
-|           |                                                          |
-| --------- | -------------------------------------------------------- |
 | **Color** | **Result**                                               |
+| --------- | -------------------------------------------------------- |
 | Black     | Failure. The target is hit and suffers collision damage. |
 | Red       | Success. The target gets out of the way.                 |
 | Blue      | Same as red.                                             |
@@ -1503,9 +1395,8 @@ A vehicle with its Durability reduced to 0 is completely destroyed; it cannot be
 
 The following is a small selection of vehicles. The Gamemaster should use these as a point of reference for vehicles of his own design.
 
-|             |                |              |              |
-| ----------- | -------------- | ------------ | ------------ |
 | **Vehicle** | **Durability** | **Handling** | **Velocity** |
+| ----------- | -------------- | ------------ | ------------ |
 | Compact Car | 10             | 6            | 6            |
 | Sports Car  | 10             | 30           | 12           |
 | Private Jet | 20             | 10           | 20           |
@@ -1553,23 +1444,21 @@ The availability of the grenade is given in the brackets.
 
 **Scream (Rare):** All targets within 6 sectors of a detonated Scream grenade must Roll d% on the Master Table using their Awareness Rank Value and compare the result to the following table:
 
-|           |                                                                                                                      |
-| --------- | -------------------------------------------------------------------------------------------------------------------- |
 | **Color** | **Result**                                                                                                           |
+| --------- | -------------------------------------------------------------------------------------------------------------------- |
 | Black     | Incapacitated. The target is paralyzed – knocked down and unconscious – for 1d10/2(round down, minimum of 1) rounds. |
 | Red       | Dazed. The target is dazed and must spend the next turns recovering (the character may take no actions those turns). |
 | Blue      | Stunned. The target is stunned for the next round and suffers a -20 penalty on d% rolls.                             |
-| Yellow    | Success\! The target manages to avoid the effects of the grenade.                                                    |
+| Yellow    | Success! The target manages to avoid the effects of the grenade.                                                    |
 
 **Stench Gas (Rare):** All targets in the targeted sector, and adjacent sectors, must Roll d% on the Master Table using their Fortitude Rank Value and compare the result to the following table:
 
-|           |                                                                                                                            |
-| --------- | -------------------------------------------------------------------------------------------------------------------------- |
 | **Color** | **Result**                                                                                                                 |
+| --------- | -------------------------------------------------------------------------------------------------------------------------- |
 | Black     | Incapacitated. The target is paralyzed – knocked down and unconscious – for 1d10/2 (round down, minimum of 1) rounds.      |
 | Red       | Nauseous. The target is nauseous and must spend the next turns recovering (the character may take no actions those turns). |
 | Blue      | Queasy. The target is queasy for the next round and suffers a -20 penalty on d% rolls.                                     |
-| Yellow    | Success\! The target manages to avoid the effects of the grenade.                                                          |
+| Yellow    | Success! The target manages to avoid the effects of the grenade.                                                          |
 
 ### Thrown Weapon Range
 
@@ -1577,9 +1466,8 @@ The **4C System** rules state that the range of a thrown object is "1 sector per
 
 Let's make that easier for everyone who is using the basic rules; let's just look at a table. If you're using the Advanced rules, which make you an Advanced player, the ranges change slightly (since the Advanced table has more rows).
 
-|                |                         |
-| -------------- | ----------------------- |
 | **Rank Value** | **Thrown Weapon Range** |
+| -------------- | ----------------------- |
 | 1-2            | Same Sector Only        |
 | 3-5            | Same Sector Only        |
 | 6-9            | 1 Sector                |
@@ -1598,40 +1486,34 @@ Grenades, and other weapons specifically designed for throwing, grant a +1 Secto
 ## Omphalos IX Precision-Fire Rifle
 
 Advanced Weapon, Futuristic Device  
-**Availability: Unique  
-Attack Type:** Ranged  
-**Manufacturer:** Wire, real name unknown  
-**Designer:** Wire, real name unknown  
-**First Appearance:** *Wire's Crusade \#1*  
-**Current Whereabouts:** Destroyed (*Wire's Crusade \#3*)
+- **Availability: Unique  
+- **Attack Type:** Ranged  
+- **Manufacturer:** Wire, real name unknown  
+- **Designer:** Wire, real name unknown  
+- **First Appearance:** *Wire's Crusade #1*  
+- **Current Whereabouts:** Destroyed (*Wire's Crusade #3*)
 
 A personal weapon of the vigilante Wire, the Omphalos IX was created in the dark future world of tomorrow. Before its destruction (at the hands of Wire himself, so that the weapon's technology would not fall into enemy hands), the Omphalos IX proved itself a capable, dangerous weapon able to knock down even the toughest of armored opponents.
 
 ### 4C System Information
 
-*Accurate.* The Omphalos IX is equipped with an advanced scope and laser targeting designator that grants the user a +20 bonus to Coordination when attacking.
-
-*Deadly Accuracy.* The Omphalos IX is so accurate that all Red attack results are stepped up to Blue; any result of Hit is immediately advanced to a Nail result.
-
-*Armor Piercing.* The Omphalos IX's armor piercing rounds reduce the effectiveness of Body Armor; reduce the Rank Value of any target's Body Armor by one-half (round down).
-
-*Limited Ammo.* The Omphalos IX is a conventional weapon and requires ammunition. The weapon's magazine holds 30 rounds; replacing a magazine requires 4 turns. Extra magazines and ammunition are difficult to locate though new ammunition can be created (in the proper weapons' shop or laboratory) by someone with the proper skill (Weaponsmithing, Science, Engineering, etc.). One hour of work yields 90 rounds.
-
-*Range Drawback.* As a precision ranged weapon, the Omphalos IX is poorly suited to close-in fighting. When used to attack a target within 12 sectors, the user's Coordination Rank Value is reduced by one-half (round down). Additionally, any Blue or Yellow attack results are automatically reduced to a Red result.
-
-*Range.* 20 Sectors.
-
-*Damage.* 20
+- *Accurate.* The Omphalos IX is equipped with an advanced scope and laser targeting designator that grants the user a +20 bonus to Coordination when attacking.
+- *Deadly Accuracy.* The Omphalos IX is so accurate that all Red attack results are stepped up to Blue; any result of Hit is immediately advanced to a Nail result.
+- *Armor Piercing.* The Omphalos IX's armor piercing rounds reduce the effectiveness of Body Armor; reduce the Rank Value of any target's Body Armor by one-half (round down).
+- *Limited Ammo.* The Omphalos IX is a conventional weapon and requires ammunition. The weapon's magazine holds 30 rounds; replacing a magazine requires 4 turns. Extra magazines and ammunition are difficult to locate though new ammunition can be created (in the proper weapons' shop or laboratory) by someone with the proper skill (Weaponsmithing, Science, Engineering, etc.). One hour of work yields 90 rounds.
+- *Range Drawback.* As a precision ranged weapon, the Omphalos IX is poorly suited to close-in fighting. When used to attack a target within 12 sectors, the user's Coordination Rank Value is reduced by one-half (round down). Additionally, any Blue or Yellow attack results are automatically reduced to a Red result.
+- *Range.* 20 Sectors.
+- *Damage.* 20
 
 ## Shrouded Relay
 
 Communicator, Foreign Military Prototype  
-**Availability:** Uncommon  
-**Attack Type:** N/A  
-**Manufacturer:** Widow's Weave Ltd.  
-**Designer:** Rebecca Cognoscenti  
-**First Appearance:** *Spider's Nest Quarterly* \#19  
-**Current Whereabouts:** Unknown
+- **Availability:** Uncommon  
+- **Attack Type:** N/A  
+- **Manufacturer:** Widow's Weave Ltd.  
+- **Designer:** Rebecca Cognoscenti  
+- **First Appearance:** *Spider's Nest Quarterly* #19  
+- **Current Whereabouts:** Unknown
 
 The Shrouded Relay is an external communicator worn on the head. A superscience device that grants its wearer limited telepathic and psychic powers, the Shrouded Relay is especially valuable to those who find themselves going up against opponents known to possess Mind Control abilities. The device fits snugly, held in place with a micro-fiber that wraps around the wearers head and secures to a brace worn beneath the user's armor or clothing.
 
@@ -1639,25 +1521,21 @@ A fairly uncommon device, hundreds of Shrouded Relays have been manufactured and
 
 ### 4C System Information
 
-*Telepathy.* An advanced science device, the Shrouded Relay enables its wearer to communicate telepathically with anyone else wearing a Shrouded Relay; the wearer gains Telepathy at Rank Value 50 but does not gain the ability to read minds. A character who possesses Telepathy who uses this device gains a +10 Rank Value bonus to his innate Telepathy.
-
-*Trait Increase.* The wearer gains Trait Increase (Willpower) for as long as this device is worn. A character who possesses Trait Increase (Willpower) who uses this device gains a +5 Rank Value bonus to his Willpower.
-
-*Tuned.* The device must be tuned. This requires a toolkit, the proper skill (Science, Engineering, Communications, etc.), and ten minutes for each Shrouded Relay in the set.
-
-*Mind Shield.* The Shrouded Relay grants the wearer Mind Shield at Rank Value 30 for as long as the device is worn.
-
-*Psychic Scars.* Each time the wearer uses the Shrouded Relay's Telepathy power the character must make a Willpower test on the Master Table; on a result of Black the character suffers permanent Willpower damage and loses 1point from his Willpower's Rank Value.
+- *Telepathy.* An advanced science device, the Shrouded Relay enables its wearer to communicate telepathically with anyone else wearing a Shrouded Relay; the wearer gains Telepathy at Rank Value 50 but does not gain the ability to read minds. A character who possesses Telepathy who uses this device gains a +10 Rank Value bonus to his innate Telepathy.
+- *Trait Increase.* The wearer gains Trait Increase (Willpower) for as long as this device is worn. A character who possesses Trait Increase (Willpower) who uses this device gains a +5 Rank Value bonus to his Willpower.
+- *Tuned.* The device must be tuned. This requires a toolkit, the proper skill (Science, Engineering, Communications, etc.), and ten minutes for each Shrouded Relay in the set.
+- *Mind Shield.* The Shrouded Relay grants the wearer Mind Shield at Rank Value 30 for as long as the device is worn.
+- *Psychic Scars.* Each time the wearer uses the Shrouded Relay's Telepathy power the character must make a Willpower test on the Master Table; on a result of Black the character suffers permanent Willpower damage and loses 1point from his Willpower's Rank Value.
 
 ## Voltaic-Concussion Fist
 
 Experimental Weapon, Military Prototype  
-**Availability:** Rare  
-**Attack Type:** Bashing  
-**Manufacturer:** Breyfogle and Grant Research  
-**Designer:** Classified**  
-First Appearance:** *Smashing Slicer Comics* \#213  
-**Current Whereabouts:** Unknown (last seen in *Major Patriot* \#76)
+- **Availability:** Rare  
+- **Attack Type:** Bashing  
+- **Manufacturer:** Breyfogle and Grant Research  
+- **Designer:** Classified**  
+- **First Appearance:** *Smashing Slicer Comics* #213  
+- **Current Whereabouts:** Unknown (last seen in *Major Patriot* #76)
 
 Built in the last days of the twentieth century, the Voltaic-Concussion Fist was originally conceived as an anti-powers weapon with enough strength to provide a talented normal with the ability to engage one-on-one with a powered villain. Built for the United States government's anti-powers agency, StopGAP, the Fist was used in a few test missions but was deemed too expensive for regular service and, eventually, the project was shelved.
 
@@ -1665,11 +1543,9 @@ Less than a dozen Voltaic-Concussion Fist prototypes were manufactured before th
 
 ### 4C System Information
 
-*Energy Generation.* The Voltaic-Concussion Fist grants the wearer Energy Generation (Electrical) at Rank Value 40. If worn by a character that possesses Elemental/Energy Control of the matching elemental or energy type, the Voltaic-Concussion Fist grants a +10 Rank Value bonus to the character's innate power for as long as the device is worn.
-
-*Amplified.* The Voltaic-Concussion Fist grants the wearer Amplified Energy Control (Electrical) at Rank Value 30 for as long as the device is worn.
-
-*Draining.* The Voltaic-Concussion Fist is a powered device that must be attached to a specialized backpack. The backpack carries enough power for 20 uses before it must be recharged. Recharging the device requires an advanced energy supply (found in most special labs but not in your garage) and 3d10+5 turns. A power belt may be used in place of the backpack; the belt provides enough power for 10 uses and requires 2d10+5 turns to recharge. A user may wear both the belt and backpack though the Fist can only be connected to one of the two power sources at a time; switching between power sources requires 1turn.
+- *Energy Generation.* The Voltaic-Concussion Fist grants the wearer Energy Generation (Electrical) at Rank Value 40. If worn by a character that possesses Elemental/Energy Control of the matching elemental or energy type, the Voltaic-Concussion Fist grants a +10 Rank Value bonus to the character's innate power for as long as the device is worn.
+- *Amplified.* The Voltaic-Concussion Fist grants the wearer Amplified Energy Control (Electrical) at Rank Value 30 for as long as the device is worn.
+- *Draining.* The Voltaic-Concussion Fist is a powered device that must be attached to a specialized backpack. The backpack carries enough power for 20 uses before it must be recharged. Recharging the device requires an advanced energy supply (found in most special labs but not in your garage) and 3d10+5 turns. A power belt may be used in place of the backpack; the belt provides enough power for 10 uses and requires 2d10+5 turns to recharge. A user may wear both the belt and backpack though the Fist can only be connected to one of the two power sources at a time; switching between power sources requires 1turn.
 
 ## Potions
 
@@ -1679,9 +1555,8 @@ Drinking a potion requires 1turn and the potion's effect automatically takes pla
 
 **Dodging:** For the 3turns after drinking this potion, whenever dodging, the character replaces the dodging results table with the following:
 
-|           |                                                                                                     |
-| --------- | --------------------------------------------------------------------------------------------------- |
 | **Color** | **Result**                                                                                          |
+| --------- | --------------------------------------------------------------------------------------------------- |
 | Black     | 1 Row Step. Anyone attacking you this turn suffers a -Row Step penalty to the appropriate Trait.    |
 | Red       | 4 Row Step. Anyone attacking you this turn suffers a -4 Row Step penalty to the appropriate Trait.  |
 | Blue      | 8 Row Steps. Anyone attacking you this turn suffers a -8 Row Step penalty to the appropriate Trait. |
@@ -1697,7 +1572,7 @@ Drinking a potion requires 1turn and the potion's effect automatically takes pla
 
 So you need a "Potion of Intellect" but there isn't one listed. No problem, you're a smart player. Just grab the "Potion of Strength," change the name and affected Primary Trait, and you're done. One "Potion of Intellect" ready for action.
 
-You can even use this trick for potions based on powers\!
+You can even use this trick for potions based on powers!
 
 ### Lesser and Greater Potions
 
